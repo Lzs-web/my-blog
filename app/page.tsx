@@ -102,7 +102,7 @@ export default function Home() {
                 title: '个人博客',
                 desc: '用Next.js + TypeScript搭建的个人技术博客，支持Markdown文章和自动部署',
                 tags: ['Next.js', 'TypeScript', 'Tailwind'],
-                link: 'https://lzs-web.github.io/my-blog/'
+                link: '/blog'
               },
               {
                 title: '个人介绍网站',

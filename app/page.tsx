@@ -34,7 +34,7 @@ export default function Home() {
           <h1 className="text-5xl font-bold mb-4 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
             廖展燊
           </h1>
-          <p className="text-xl text-gray-600 mb-8">前端开发者 | 热爱编程 | 终身学习</p>
+          <p className="text-xl text-gray-600 mb-8">开发者 | 热爱编程 | 终身学习</p>
           <div className="flex justify-center gap-4">
             <a href="#contact" className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition shadow-lg hover:shadow-xl">
               联系我
@@ -50,7 +50,7 @@ export default function Home() {
           <h2 className="text-3xl font-bold mb-8 text-center">关于我</h2>
           <div className="bg-white rounded-2xl shadow-xl p-8 max-w-3xl mx-auto">
             <p className="text-lg text-gray-700 leading-relaxed">
-              你好！我是廖展燊，一名热爱编程的前端开发者。我喜欢用代码创造有价值的产品，
+              你好！我是廖展燊，一名热爱编程的开发者。我喜欢用代码创造有价值的产品，
               不断学习新技术，解决实际问题。我相信好的代码不仅能解决问题，还能带来愉悦的用户体验。
             </p>
             <div className="mt-6 grid grid-cols-2 gap-4">
